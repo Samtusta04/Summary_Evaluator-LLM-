@@ -1,0 +1,26 @@
+# virtual environments
+quizenv/
+venv/
+env/
+*.venv/
+
+# Python cache / bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Optional: large data / secrets
+*.sqlite3
+*.db
+.env
